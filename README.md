@@ -1,6 +1,6 @@
 # 🌳 Classificação de Eventos de Câncer de Mama com Árvore de Decisão
 
-## 📝 Descrição do Projeto
+##  Descrição do Projeto
 
 Este trabalho de Data Science foca na construção de um modelo de **Classificação** para prever a recorrência de eventos de câncer de mama. O projeto utiliza o algoritmo **Árvore de Decisão (\`DecisionTreeClassifier\`)** com seus parâmetros padrões para estabelecer uma linha de base de desempenho.
 
@@ -11,7 +11,7 @@ Este trabalho de Data Science foca na construção de um modelo de **Classifica�
 
 ---
 
-## 🏗️ Metodologia e Processamento de Dados
+##  Metodologia e Processamento de Dados
 
 O processo de modelagem seguiu uma abordagem estruturada de pré-processamento, treinamento e avaliação:
 
@@ -28,7 +28,7 @@ O processo de modelagem seguiu uma abordagem estruturada de pré-processamento, 
 
 ---
 
-## 📊 Resultados do Modelo
+##  Resultados do Modelo
 
 Os resultados refletem o desempenho do modelo de Árvore de Decisão com a configuração padrão no conjunto de teste.
 
@@ -54,7 +54,7 @@ A matriz detalha os acertos e erros do modelo na classificação.
 
 ---
 
-## 👨‍💻 Como Executar
+##  Como Executar
 
 1.  Certifique-se de que o arquivo \`breast-cancer.csv\` está na mesma pasta do seu script Python.
 2.  Instale as bibliotecas necessárias:
@@ -64,5 +64,5 @@ A matriz detalha os acertos e erros do modelo na classificação.
 3.  Execute o script:
     \`\`\`bash
     python [NOME_DO_SEU_ARQUIVO].py
-    Ex: python clusterizacao.py
+    **Ex: python clusterizacao.py**
     \`\`\`
